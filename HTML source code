@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>Create a form</title>
+</head>
+<body>
+    <form action="signupresult.html" method="GET">
+        <div>
+            <lable for="username">User name:</lable>
+            <input name="username" id="username">  
+        </div>
+        <div>
+        <lable>Password:</lable>
+            <input name="username">
+        </div>
+        <button>sing up</button>
+    </form>
+</body>
+</html>
